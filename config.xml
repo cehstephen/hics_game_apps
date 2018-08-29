@@ -2,7 +2,8 @@
 <widget id="com.hcischool.gameapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>HCIS GAME APP</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        www.itmister.com  : ITM Tech Ltd - cehstephen
+        This is a HTML5 and JavaScript mobile application that is built by CehStephen, for teaching purpose: Designed to be used at HCIS.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
